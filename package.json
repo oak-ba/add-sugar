@@ -1,0 +1,19 @@
+{
+  "name": "add-sugar",
+  "version": "1.0.0",
+  "description": "add some sugar",
+  "main": "addSugar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oak-ba/add-sugar.git"
+  },
+  "author": "oak-ba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oak-ba/add-sugar/issues"
+  },
+  "homepage": "https://github.com/oak-ba/add-sugar#readme"
+}
